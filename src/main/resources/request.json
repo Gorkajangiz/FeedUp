@@ -1,0 +1,8 @@
+{
+  "model": "salamandra-2b-instruct.Q3_K_S.gguf",
+  "messages": [
+    {"role": "user", "content": "REPLACE_ME"}
+  ],
+  "temperature": 0.1,
+  "max_tokens": 10
+}
